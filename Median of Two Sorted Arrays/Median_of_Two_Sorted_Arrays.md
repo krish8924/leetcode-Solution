@@ -3,7 +3,7 @@ Difficulty: Hard
 Platform: LeetCode
 ---
 
-# 🚀 26. TMedian of Two Sorted Arrays
+# 🚀 Median of Two Sorted Arrays
 
 🔗 Problem Link: https://leetcode.com/problems/median-of-two-sorted-arrays/description/
 
