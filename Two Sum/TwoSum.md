@@ -3,7 +3,7 @@ Difficulty: Easy
 Platform: LeetCode
 ---
 
-# 🚀 26. Two Sum
+# 🚀 Two Sum
 
 🔗 Problem Link: https://leetcode.com/problems/two-sum/description/
 
