@@ -1,5 +1,5 @@
 ---
-Difficulty: Easy
+Difficulty: Medium
 Platform: LeetCode
 ---
 
