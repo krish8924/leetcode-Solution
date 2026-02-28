@@ -8,9 +8,9 @@ This repository contains my solutions to LeetCode problems.
 
 ---
 
-| Problems  |  Solution  |
-| ----------| -------    |
-| `I`       |   1        |
+| Problems               |  Solution  |
+| -----------------------|----------- |
+| `[Remove Duplicates from Sorted Array](Remove Duplicates from Sorted Array/Remove_Duplicates_from_Sorted_Array.md)`       |   1        |
 | `V`       |   5        |
 | `X`       |   10       |
 | `L`       |   50       |
