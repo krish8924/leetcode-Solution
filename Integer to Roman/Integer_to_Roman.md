@@ -9,9 +9,11 @@ Platform: LeetCode
 
 **Seven different symbols represent Roman numerals with the following values:**
 ---
-Symbols : Value
 
----
+| Symbols  | Values |
+| ---------| -------|
+| `I`      |   1    |
+| `V`      |        |
 
 ---
 ## 🔍 **Example Walkthrough:**
