@@ -10,7 +10,7 @@ This repository contains my solutions to LeetCode problems.
 
 | Problems               |  Solution  |
 | -----------------------|----------- |
-|[Remove Duplicates from Sorted Array](Remove Duplicates from Sorted Array/Remove_Duplicates_from_Sorted_Array.md) | [C++](./algorithms/cpp/leetcode/sumOfDigitsOfStringAfterConvert/SumOfDigitsOfStringAfterConvert.cpp)|Easy|
+|[Remove Duplicates from Sorted Array](./Remove Duplicates from Sorted Array/Remove_Duplicates_from_Sorted_Array.md) | [C++](./algorithms/cpp/leetcode/sumOfDigitsOfStringAfterConvert/SumOfDigitsOfStringAfterConvert.cpp)|Easy|
 
 | `V`       |   5        |
 | `X`       |   10       |
