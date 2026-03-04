@@ -22,7 +22,7 @@ s = "Hello World"
 
 ```
 5
-The last word is "World" with length 5.
+Explanation: The last word is "World" with length 5.
 ```
 
 *Example 2*
